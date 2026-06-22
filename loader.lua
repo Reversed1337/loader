@@ -1,6 +1,6 @@
 -- Table mapping the specific game IDs to your GitHub scripts
 local scriptHub = {
-    [7436755782] = "https://raw.githubusercontent.com/Reversed1337/Testing-124/refs/heads/main/pet%20finder.lua",  -- Grow a Garden
+    [126884695634066] = "https://raw.githubusercontent.com/Reversed1337/Testing-124/refs/heads/main/pet%20finder.lua",  -- Grow a Garden
     [97598239454123] = "https://raw.githubusercontent.com/Reversed1337/Testing-123/refs/heads/main/zeta%20hub.lua" -- Grow a Garden 2
 }
 
