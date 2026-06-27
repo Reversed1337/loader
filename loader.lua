@@ -8,7 +8,7 @@ local scriptHub = {
 local targetURL = scriptHub[game.PlaceId]
 
 if targetURL then
-    -- Safely fetch and run the code
+    -- Safely fetch and run the code yes
     local fetchSuccess, fetchedCode = pcall(game.HttpGet, game, targetURL)
     if fetchSuccess then
         loadstring(fetchedCode)()
